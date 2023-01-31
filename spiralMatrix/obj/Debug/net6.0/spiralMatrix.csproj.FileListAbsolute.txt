@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.AssemblyInfo.cs
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\bin\Debug\net6.0\spiralMatrix.exe
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\bin\Debug\net6.0\spiralMatrix.deps.json
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\bin\Debug\net6.0\spiralMatrix.runtimeconfig.json
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\bin\Debug\net6.0\spiralMatrix.dll
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\bin\Debug\net6.0\spiralMatrix.pdb
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.dll
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\refint\spiralMatrix.dll
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.pdb
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\spiralMatrix.genruntimeconfig.cache
+C:\Users\promact\Desktop\C#\spiralMatrix\spiralMatrix\obj\Debug\net6.0\ref\spiralMatrix.dll
