@@ -9,14 +9,14 @@ internal class Program
         {
             matrix.Add(new List<int>(new int[n]));
         }
-
+        //  direction to move 
         int top_dir = 0;
         int down_dir = n - 1;
         int left_dir = 0;
         int right_dir = n-1;
         int dir = 0;
         int num = 1;
-
+        // check condition for n*n
         while(top_dir<= down_dir && left_dir <= right_dir) {
         
             // first case 
@@ -72,7 +72,7 @@ internal class Program
                 }
                 left_dir++;
             }
-
+            // direction 
             dir = (dir + 1) % 4;
 
         }
@@ -80,7 +80,7 @@ internal class Program
 
  
             }
-
+     // print function  with foreach loop and for elements in between space required , so use join inbulid function
     private static void Print_mt(List<List<int>> matrix)
     {
         foreach (List<int> row in matrix)
@@ -88,11 +88,14 @@ internal class Program
             Console.WriteLine(string.Join(" ", row));
         }
     }
+
+    // main method 
     static void Main(string[] args)
     {
         Console.WriteLine("Enter Size of Matrix : ");
         int n = int.Parse(Console.ReadLine());
         List<List<int>> matrix = CreateSprialMatrix(n);
+        // called print method 
         Print_mt(matrix);
         Console.ReadLine();
     }
